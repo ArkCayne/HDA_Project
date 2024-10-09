@@ -1,4 +1,4 @@
-# HDA_Testcodes
+# HDA_Project
 Contains Health Data Analytics (HDA) codes used for testing models and datasets
 
 All code executions were run on a local jupyter notebook\
